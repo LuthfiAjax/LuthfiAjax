@@ -29,7 +29,7 @@
 
   <h3 align="center">📈 Github Stats</h3>
   <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuthfiAjax&theme=monokai&langs_count=12"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuthfiAjax&theme=monokai&langs_count=12"/><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuthfiAjax&layout=compact&theme=monokai&langs_count=12"/><br />
   </p>
 
