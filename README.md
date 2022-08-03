@@ -23,7 +23,7 @@
 </p>
 
 <h3> My Profil Website</h3>
-<a href="https://jaxid.site" target="_blank"> TensorFlow Developer Certified</a>
+<a href="https://jaxid.site" target="_blank"> JaxID</a>
 
 <h3>📈 Github Stats</h3>
 <p>
