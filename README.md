@@ -23,17 +23,14 @@
 </p>
 
 <h3> My Profil Website</h3>
-<a href="https://jaxid.site" target="_blank"> JaxID</a>
+<a href="https://jaxid.site" target="_blank"> TensorFlow Developer Certified</a>
 
 <h3>📈 Github Stats</h3>
 <p>
-  <img alt="Profile overview" src="https://raw.githubusercontent.com/LuthfiAjax/github-stats-transparent/output/generated/overview.svg">
-  <img alt="Repo languages overall" src="https://raw.githubusercontent.com/LuthfiAjax/github-stats-transparent/output/generated/languages.svg" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuthfiAjax&theme=monokai"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuthfiAjax&layout=compact&theme=monokai&langs_count=12"/><br />
   
   
-
-
-
 ------------
 
 <h3>📞📬 Contact me</h3>
