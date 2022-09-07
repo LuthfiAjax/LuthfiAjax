@@ -25,8 +25,8 @@
 <h3> My Profil Website</h3>
 <a href="https://jaxid.site" target="_blank"> jaxID</a>
 
-<h3> My Project Fullstack web developer</h3>
-<a href="https://reholtransport.com/" target="_blank"> Rehol Transport</a>
+<h3> My Portfolio Project Fullstack web developer</h3>
+<a href="https://reholtransport.com/" target="_blank"> Rehol Transport</a> <br>
 <a href="https://ssbku.com/" target="_blank"> SSBKU</a>
 
 
