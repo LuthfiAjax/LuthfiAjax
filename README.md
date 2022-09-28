@@ -25,10 +25,12 @@
 <h3> My Profil Website</h3>
 <a href="https://jaxid.site" target="_blank"> jaxID</a>
 
-<h3> My Portfolio Project Fullstack web developer</h3>
+<h3> Freelance Fullstack web developer</h3>
 <a href="https://reholtransport.com/" target="_blank"> Rehol Transport</a> <br>
 <a href="https://ssbku.com/" target="_blank"> SSBKU</a>
 
+<h3> Works position Web Developer</h3>
+<a href="https://r17.co.id/" target="_blank"> R17 Group</a>
 
 
   <h3 align="center">📈 Github Stats</h3>
