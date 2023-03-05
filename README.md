@@ -1,5 +1,5 @@
-<h1>Hello 😎 Jax</h1> <h3> i'm Luthfi</h3>
-<p>hay friends Welcome to my GitHub page! </br> I'm Ach Luthfi Imron Juhari, but call me Luthfi, Tech enthusiast from <b>Rembang, Central Java, Indonesia</b>. I'm a undergraduate student at Universitas Teknologi Yogyakarta majoring Informatics and minoring Web Mobile Aplication. I'm passionate to Web Developer & Android Development.</p>
+<h1>Hello 😎 Jax</h1> <h3> Web mobile developer</h3>
+<p>hay friends Welcome to my GitHub page! </br> I'm Ach Luthfi Imron Juhari, but call me Luthfi, Tech enthusiast from <b>Rembang, Central Java, Indonesia</b>. I am a web and mobile developer with a background in Computer Science from Yogyakarta University of Technology. I currently work as a web developer in an IT company and also take on freelance projects. I develop web and mobile applications using the latest technologies, and am committed to providing the best solutions and optimal results with high quality and efficient timing for clients.</p>
 
 <h3>👨‍💻 Things I code with</h3>
 <p>
