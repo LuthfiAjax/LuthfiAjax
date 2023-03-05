@@ -1,4 +1,4 @@
-<h1>Hello 😎 Jax</h1>
+<h1>Hello 😎 Jax</h1> <h3> i'm Luthfi</h3>
 <p>hay friends Welcome to my GitHub page! </br> I'm Ach Luthfi Imron Juhari, but call me Luthfi, Tech enthusiast from <b>Rembang, Central Java, Indonesia</b>. I'm a undergraduate student at Universitas Teknologi Yogyakarta majoring Informatics and minoring Web Mobile Aplication. I'm passionate to Web Developer & Android Development.</p>
 
 <h3>👨‍💻 Things I code with</h3>
