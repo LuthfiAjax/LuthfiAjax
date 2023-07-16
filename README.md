@@ -32,9 +32,19 @@
 <h3>Freelance Full-stack Web Developer</h3>
 <a href="https://reholtransport.com/" target="_blank">Rehol Transport</a><br>
 <a href="https://ssbku.com/" target="_blank">SSBKU</a>
+<a href="https://www.e-tugasmtspui.my.id" target="_blank">MTS PUI Banjarsari</a>
+<a href="https://sabdhalangit.com/" target="_blank">Sabdha Langit</a>
+<a href="https://bagiyodensoacmobil.com/" target="_blank">Bagiyo Denso</a>
 
-<h3>Work Position: Web Developer</h3>
-<a href="https://r17.co.id/" target="_blank">R17 Group</a>
+<h3>Work Position: Web Developer at R17 Group</h3>
+<a href="https://r17group.id/" target="_blank">R17 Group</a>
+<a href="https://r17.co.id/" target="_blank">R17 Kelola</a>
+<a href="https://audiopostasia.com/" target="_blank">Audiopost Asia</a>
+<a href="https://alursolusi.com/" target="_blank">Alur Solusi</a>
+<a href="https://apollosolar.co.id/" target="_blank">Apollo Solar</a>
+<a href="https://digiprimatera.co.id/" target="_blank">Digiprimatera</a>
+<a href="https://dimensy.id/" target="_blank">Dimensy</a>
+<a href="https://trimitra-perkasa.com/" target="_blank">Trimitra Perkasa</a>
 
 <h3 align="center">📈 GitHub Stats</h3>
 <p align="center">
