@@ -1,4 +1,4 @@
-<h1>Hello 😎 Jax</h1>
+<h1>Hello 😎 Jax | </h1>
 <h3>Software Engineer and Instructor</h3>
 <p>Hello everyone! I'm Ach Luthfi Imron Juhari, known as Luthfi. Originally from <b>Rembang, Central Java, Indonesia</b>, I am passionate about technology. As a software engineer, I have worked on a diverse range of projects, including web and mobile applications.</p>
 <p>Currently, I am not only contributing to software development but also sharing my knowledge as an instructor for aspiring software developers. I believe in the power of education to drive innovation, and I'm dedicated to empowering the next generation of tech enthusiasts.</p>
@@ -28,7 +28,13 @@
 </p>
 
 <h3>My Profile Website</h3>
-<a href="https://jaxid.site" target="_blank">jaxID</a>
+<a href="https://jaxid.my.id" target="_blank">JaxID</a>
+
+<h3>Work Experience - at</h3>
+<a href="https://r17group.id/" target="_blank"> Web Developer - R17 Group</a><br>
+<a href="https://bankmandiri.co.id/" target="_blank"> Database Administrator - Bank Mandiri Persero</a><br>
+<a href="https://codingstudio.id/" target="_blank"> Software Engineer Instructor - Coding Studio</a><br>
+<a href="https://r17group.id/" target="_blank"> Software Developer - R17 Group</a><br>
 
 <h3>Freelance Full-stack Web Developer</h3>
 <a href="https://reholtransport.com/" target="_blank">Rehol Transport</a><br>
@@ -36,6 +42,11 @@
 <a href="https://www.e-tugasmtspui.my.id" target="_blank">MTS PUI Banjarsari</a><br>
 <a href="https://sabdhalangit.com/" target="_blank">Sabdha Langit</a><br>
 <a href="https://bagiyodensoacmobil.com/" target="_blank">Bagiyo Denso</a><br>
+<a href="https://spnfskbgrobogan.id/" target="_blank">Satuan Pendidikan Non Formal SKB Grobogan</a><br>
+
+<h3>Freelance Full-stack Mobile Developer</h3>
+<a href="https://www.e-tugasmtspui.my.id" target="_blank">MTS PUI Banjarsari</a><br>
+<a href="https://play.google.com/store/apps/details?id=blackowl.id" target="_blank">Black OWL apps</a><br>
 
 <h3>Work Position: Web Developer at R17 Group</h3>
 <a href="https://r17group.id/" target="_blank">R17 Group</a><br>
@@ -46,6 +57,7 @@
 <a href="https://digiprimatera.co.id/" target="_blank">Digiprimatera</a><br>
 <a href="https://dimensy.id/" target="_blank">Dimensy</a><br>
 <a href="https://trimitra-perkasa.com/" target="_blank">Trimitra Perkasa</a><br>
+<a href="https://goldenblossomsumatra.co.id/" target="_blank">Golden Blossom Sumatra</a><br>
 
 <h3 align="center">📈 GitHub Stats</h3>
 <p align="center">
