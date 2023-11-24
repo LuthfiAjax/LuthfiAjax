@@ -1,5 +1,4 @@
 <h1>Hello 😎 Jax</h1>
-<h3>Web and Mobile Developer</h3>
 <h3>Software Engineer and Instructor</h3>
 <p>Hello everyone! I'm Ach Luthfi Imron Juhari, known as Luthfi. Originally from <b>Rembang, Central Java, Indonesia</b>, I am passionate about technology. As a software engineer, I have worked on a diverse range of projects, including web and mobile applications.</p>
 <p>Currently, I am not only contributing to software development but also sharing my knowledge as an instructor for aspiring software developers. I believe in the power of education to drive innovation, and I'm dedicated to empowering the next generation of tech enthusiasts.</p>
