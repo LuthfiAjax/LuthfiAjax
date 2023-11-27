@@ -21,8 +21,6 @@ Currently, I am not only contributing to software development but also sharing m
 
 <img alt="Hadoop" src="https://img.shields.io/badge/Hadoop-%23ED8B00.svg?style=flat&logo=hadoop&logoColor=white"/> <img alt="Hive" src="https://img.shields.io/badge/Hive-%23FDEE21.svg?style=flat&logo=hive&logoColor=black"/> <img alt="Kafka" src="https://img.shields.io/badge/Kafka-%23000000.svg?style=flat&logo=apache-kafka&logoColor=white"/> <img alt="Kibana" src="https://img.shields.io/badge/Kibana-%23474747.svg?style=flat&logo=kibana&logoColor=white"/>
 
-
-
 ## My Profile Website
 | Project | Link |
 |---------|------|
