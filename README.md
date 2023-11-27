@@ -57,7 +57,7 @@ Currently, I am not only contributing to software development but also sharing m
 <h3 align="center">📈 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/demo/preview.php?user=LuthfiAjax&theme=gruvbox-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuthfiAjax&layout=compact&theme=monokai&langs_count=12"/><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuthfiAjax&layout=compact&theme=radical&langs_count=14&bg_color=222&title_color=87CEEB&text_color=fff&icon_color=87CEEB"/><br />
 </p>
 
 <h3 align="center">📞📬 Contact Me</h3>
